@@ -10,3 +10,6 @@ delta_lake/
 spark-warehouse/
 *.parquet
 *.csv 
+
+# data
+data/
